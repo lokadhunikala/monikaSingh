@@ -1,6 +1,7 @@
-baseURL = 'https://github.com/lokadhunikala/monikaSingh//'
+baseURL = 'https://github.com/lokadhunikala/monikaSingh/'
 languageCode = 'en-us'
 title = 'Art by Moniika'
+theme = 'gallerydeluxe'
 
 # Vital for images in GitHub subfolders
 canonifyURLs = true

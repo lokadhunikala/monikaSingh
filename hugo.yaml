@@ -1,0 +1,13 @@
+- name: Setup Go
+  uses: actions/setup-go@v5
+  with:
+    go-version: '1.24' # Matches the Go version you installed
+
+- name: Setup Hugo
+  uses: peaceiris/actions-hugo@v3
+  with:
+    hugo-version: '0.160.0'
+    extended: true # Crucial for Gallerydeluxe processing
+
+- name: Build with Hugo
+  run: hugo --gc --minify
