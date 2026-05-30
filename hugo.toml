@@ -1,0 +1,8 @@
+baseURL = 'https://pushkal-singh.github.io/artworkByMoniika/'
+languageCode = 'en-us'
+title = 'Art by Moniika'
+theme = 'gallerydeluxe'
+
+# Vital for images in GitHub subfolders
+canonifyURLs = true
+relativeURLs = false
