@@ -1,5 +1,7 @@
 [![Netlify Status](https://api.netlify.com/api/v1/badges/fe020ffb-29ff-409c-905b-6f00175091d0/deploy-status)](https://app.netlify.com/sites/gallerydeluxe/deploys)
 
+Fill Change
+
 This is a starter project for the [Gallery Deluxe](https://github.com/bep/gallerydeluxe) Hugo Module. You need [Hugo](https://gohugo.io/getting-started/installing/) and [Go](https://go.dev/dl/) to run this project.
 
 1. Click on use "Use this template" and give your new GitHub project a suitable name.
